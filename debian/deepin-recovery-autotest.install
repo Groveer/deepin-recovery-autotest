@@ -1,0 +1,2 @@
+auto-backup-restore.sh              /usr/bin
+deepin-recovery-autotest.service    /usr/lib/systemd/system

@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: deepin-recovery-autotest
+
+Files: *
+Copyright: 2017-2020 Deepin Technology Co., Ltd.
+License: UOS_LICENSE
+ These programs come with absolutely no warranty.
+ Use at your own risk!
+ The programs may be used for free.
+ Any other uses will require permission from the author.
+ All these programs are copyright Deepin Technology Co., Ltd.
+ Prohibition of commercial use.

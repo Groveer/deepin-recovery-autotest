@@ -1,0 +1,10 @@
+[Unit]
+Description=Auto test for deepin-recovery-gui
+After=udisk2.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/auto-backup-restore.sh
+
+[Install]
+WantedBy=default.target

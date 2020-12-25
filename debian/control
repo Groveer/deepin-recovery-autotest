@@ -1,0 +1,19 @@
+Source: deepin-recovery-autotest
+Section: utils
+Priority: optional
+Maintainer: guoyao <groveer@outlook.com>
+Build-Depends:
+ debhelper-compat (= 11),
+ pkg-config,
+ bash-completion
+Standards-Version: 4.1.5
+Homepage: https://gitlabwh.uniontech.com/ut000683/deepin-recovery-autotest
+
+Package: deepin-recovery-autotest
+Architecture: any
+Depends:
+Conflicts:
+Replaces:
+Description: Auto test
+ Auto test for deepin-recovery-gui.
+
